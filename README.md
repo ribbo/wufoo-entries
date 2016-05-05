@@ -1,5 +1,9 @@
 # wufoo-entries
 
+As you work with the Wufoo API, it is likely you’ll deal with the Entries API more than any other API.
+
+wufoo-entries is an abstraction layer allowing easy creating and fetching of form entries from Wufoo.
+
 ## Installation
 
     $ npm install wufoo-entries
@@ -19,6 +23,7 @@ This placeholder must be replaced with your subdomain.
 This placeholder must be replaced with your Wufoo API key.
 
 ```javascript
+var Wufoo = require('wufoo-entries');
 var wufoo = new Wufoo('fishbowl', 'AOI6-LFKL-VM1Q-IEX9');
 ```
 
