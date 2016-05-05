@@ -46,7 +46,6 @@ You’ll use the Entries POST API to send Entry data to your Wufoo account.
 Replace {fhey3v98o8fw7g} with your form identifier and include an object with your form data.
 
 ```javascript
-
 var formData = {
     'Field1': 'Lewis Arch'
 };
