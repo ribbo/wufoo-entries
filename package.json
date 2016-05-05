@@ -1,0 +1,16 @@
+{
+  "name": "wufoo-entries",
+  "version": "1.0.1",
+  "description": "Wufoo REST API V3 Entries Wrapper",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ribbo/wufoo-entries.git"
+  },
+  "homepage": "https://github.com/ribbo/wufoo-entries",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lewis Arch",
+  "license": "MIT"
+}
