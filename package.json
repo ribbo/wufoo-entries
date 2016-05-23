@@ -11,6 +11,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": {
+    "url": "https://github.com/ribbo/wufoo-entries/issues/"
+  },
+  "dependencies": {
+    "request": ">=2.0.0"
+  },
   "author": "Lewis Arch",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "wufoo",
+    "entries",
+    "api",
+    "plugin"
+  ],
 }
