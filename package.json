@@ -1,6 +1,6 @@
 {
   "name": "wufoo-entries",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Wufoo REST API V3 Entries Wrapper",
   "main": "index",
   "repository": {
